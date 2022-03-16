@@ -72,6 +72,3 @@ package domain;
 	    }
 	}
 	
-
-
-}
